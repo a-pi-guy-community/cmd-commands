@@ -10,7 +10,7 @@ and then do this command:
 
 nameofcmdcommand.bat
 
-where nameofcmd command is type the name of the command you want to use see #commandlist
+where nameofcmd command is type the name of the command you want to use see commandlist
 
 
 
